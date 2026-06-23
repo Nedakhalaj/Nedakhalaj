@@ -23,3 +23,9 @@ Repo: https://github.com/JungblomSt/LocalGuide
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/neda-khalaj
 - Email: neda.khalaj7168@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nedakhalaj/Nedakhalaj/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nedakhalaj/Nedakhalaj/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nedakhalaj/Nedakhalaj/output/github-snake.svg">
+</picture>
