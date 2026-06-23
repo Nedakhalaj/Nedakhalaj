@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Neda 👋
 
-<!--
-**Nedakhalaj/Nedakhalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior iOS developer based in Stockholm, Sweden, and a career changer moving from accounting and business into software development. I am currently completing Folkuniversitetet's two-year Mobile Application Developer program.
 
-Here are some ideas to get you started:
+I build native iOS apps with Swift and SwiftUI, I enjoy learning new tools and ways of working, and I use AI development tools in my daily work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I work with
+- **Languages:** Swift, Python, Kotlin, Java
+- **iOS:** SwiftUI, UIKit, MapKit, Core Location, AVFoundation
+- **Backend and data:** Firebase (Authentication, Firestore, Storage), REST APIs
+- **Tools and practices:** Xcode, Git and GitHub, MVVM, Agile
+
+## Featured project
+**LocalGuide** is a location-based iOS app for discovering, creating, and sharing audio-guided tours across Sweden. It is built with SwiftUI, MapKit, Core Location, AVFoundation, and Firebase, following an MVVM architecture. It was a team project (4 developers), and I contributed using Git and GitHub with code reviews.
+
+Repo: https://github.com/JungblomSt/LocalGuide
+
+## A bit more about me
+- **Languages:** Persian (native), English (fluent), Swedish (intermediate, improving)
+- I care about details and reliable work, which comes from my background in finance.
+- Open to internship (praktik / LIA) and junior iOS roles.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/neda-khalaj
+- Email: neda.khalaj7168@gmail.com
