@@ -6,7 +6,7 @@ I build native iOS apps with Swift and SwiftUI, I enjoy learning new tools and w
 
 ## Tech I work with
 - **Languages:** Swift, Python, Kotlin, Java
-- **iOS:** SwiftUI, UIKit, MapKit, Core Location, AVFoundation
+- **iOS:** SwiftUI, UIKit, MapKit, Core Location, AVFoundation, Keychain, WidgetKit, async/await
 - **Backend and data:** Firebase (Authentication, Firestore, Storage), REST APIs
 - **Tools and practices:** Xcode, Git and GitHub, MVVM, Agile
 
