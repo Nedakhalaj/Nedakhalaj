@@ -1,6 +1,5 @@
 # Hi, I'm Neda 👋
-
-I am a junior iOS developer based in Stockholm, Sweden, and a career changer moving from accounting and business into software development. I am currently completing Folkuniversitetet's two-year Mobile Application Developer program.
+LIA 2 14 - 23I am a junior iOS developer based in Stockholm, Sweden, and a career changer moving from accounting and business into software development. I am currently completing Folkuniversitetet's two-year Mobile Application Developer program.
 
 I build native iOS apps with Swift and SwiftUI, I enjoy learning new tools and ways of working, and I use AI development tools in my daily work.
 
