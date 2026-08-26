@@ -12,6 +12,8 @@ I build native iOS apps with Swift and SwiftUI, I enjoy learning new tools and w
 
 I built it from an empty Xcode project, one feature per branch and pull request. It uses SwiftUI and MVVM, calls the OpenRouter and Claude REST APIs with async/await and Codable, keeps credentials in the Keychain, and shares its data with a WidgetKit widget through an App Group.
 
+It is the iOS version of an existing Android app, [ai-usage-android](https://github.com/ateymoori/ai-usage-android) by AmirHossein Teymoori. I took the idea and the provider list from there, and wrote the iOS app myself.
+
 Repo: https://github.com/Nedakhalaj/token-meter-ios
 
 ## Team project
