@@ -10,7 +10,7 @@ My LIA periods are 30 Nov 2026 to 19 Feb 2027 and 5 Apr to 11 Jun 2027, or one c
 
 ## What I am building
 
-### Token Meter (iOS, solo project)
+### Token Meter:AI Usage (iOS, solo project)
 
 An iOS app that shows how much of your AI usage quota is left across Claude, Codex, OpenRouter, and Google Drive, as progress bars on a dashboard and a home screen widget. Everything runs on the phone, with no backend.
 
